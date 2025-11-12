@@ -1,5 +1,5 @@
 import React from 'react';
-import ProductCard from './ProductCard';
+import ProductCard from './productcard';
 import './index.css'; // Import shared CSS
 
 // --- 1. Data Structure ---
